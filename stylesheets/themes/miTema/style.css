@@ -6,7 +6,7 @@ a:link, a:visited, a:hover, a:active, h1, h2, h3 { color: #ff7900; }
 a { -moz-outline: none; }
 
 body {
-  color: #222;
+  color: #333;
   background: #f0f0ee;
   font-family: helvetica, arial, sans-serif;
 }
